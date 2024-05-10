@@ -1,3 +1,4 @@
+##
 * **Game Description:**
 This is an attempt to make history learning interesting through storytelling. This game is made with renpy featuring player interaction, storelling by Non Playing Character(NPC) and a Quiz assessment. 
 It comes with pictures, music and questioners.
@@ -15,3 +16,5 @@ For the content creator, they can simply open the script.rpy file in the game fo
      change options.
    * **4. currently the threshold winning point is mentioned 2:**
       can be changed simply by changing it to another number in the while loop line.
+
+##
