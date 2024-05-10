@@ -14,4 +14,4 @@ For the content creator, they can simply open the script.rpy file in the game fo
      change question which is under double commas("..")
      change options.
    **4. currently the threshold winning point is mentioned 2:**
-      can be changed simply by changing it to another number in the while loop line. 
+      can be changed simply by changing it to another number in the while loop line.
